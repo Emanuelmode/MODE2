@@ -35,11 +35,11 @@ DELTA_LIBRARY = {
     # injustamente penalizado. LZ se mantiene estricta para que
     # senoidal con ruido alto y ruido rosa sigan bloqueados por mínimo.
     'weakly_chaotic': {
-        'lambda': 0.18,
-        'D2':     0.03,
-        'LZ':     0.04,
-        'TE':     0.18,
-        'SampEn': 0.08,
+    'lambda': 0.18,
+    'D2':     0.07,
+    'LZ':     0.18,
+    'TE':     0.18,
+    'SampEn': 0.08,
     },
 
     # ── Caótico ─────────────────────────────────────────────────────
